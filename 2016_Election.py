@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Credit to Akkana. Original code can be found here: https://github.com/akkana/scripts/blob/master/mapping/election2016/bluered-censusshapes.py. 
 """
 import sys
 from mpl_toolkits.basemap import Basemap
